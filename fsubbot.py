@@ -32,7 +32,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
-    print(f"Connected For Emo Network @{uname} Started Successfully!")
+    print(f"Connected For Dan @{uname} Started Successfully!")
     idle()
     app.stop()
-    print("Emo Network disconnected Bot stopped.")
+    print("Dan disconnected Bot stopped.")
