@@ -4,7 +4,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com//RishBropromax/Fsub-Bott"><img src="https://telegra.ph/file/0c8f543399c4b89cf8278.jpg" width="500"></a></p>
+<p align="center"><a href="https://www.github.com//bebekk2024/Fsub-Bott"><img src="https://telegra.ph/file/0c8f543399c4b89cf8278.jpg" width="500"></a></p>
 
 <p align="center">Telegram bot to force users to subscribe a particular chat.</p>
 
@@ -19,7 +19,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RishBropromax/Fsub-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bebekk2024/Fsub-Bot.git)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -42,7 +42,7 @@ Note :- `First update Your packeges`
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/RishBroProMax/Fsub-Bot
+   git clone https://github.com/bebekk2024/Fsub-Bot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -86,6 +86,6 @@ Note :- `First update Your packeges`
 
 ## Support
 
-Channel :- [Emo Bot Devolopers](https://t.me/EmoBotDevolopers
+Channel :- [Disney_storeDan](https://t.me/DanDevolopers
 
-Group Chat :- [Emo Bots Support](https://t.me/EmoBotSupport)
+Group Chat :- [musik_supportdan](https://t.me/musik_supportdan)
