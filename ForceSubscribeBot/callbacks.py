@@ -81,7 +81,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
         elif main in ["true", "false"]:
             creator = True if (await bot.get_chat_member(chat_id, callback_query.from_user.id)).status == "creator" else False
             if not creator:
-                await callback_query.answer("This is a special setting and can only be changed by owner.", show_alert=True)
+                await callback_query.answer("This is a special setting and can only be changed by owner.5779185981", show_alert=True)
                 return
             current_bool = await get_only_owner(chat_id)
             if main == "true":
