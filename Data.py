@@ -13,7 +13,7 @@ Send /help Visit My Help Menu
 
 🙈 For All Users 👇👇
 
-🔥 Powered By Emo Network ✓
+🔥 Powered By mhmdwldnnnn ✓
 ☘️ Simple & Friendly BOT ✓
 💥 Keep Original Appearance ✓
 🎯 Group Supported ✓
@@ -23,7 +23,7 @@ Send /help Visit My Help Menu
 
 ▣————————————————————————▣
 
-🚀Powerd By @EmoBotDevolopers
+🚀Powerd By @mhmdwldnnnn
 
 ▣————————————————————————▣
     """
@@ -31,26 +31,26 @@ Send /help Visit My Help Menu
     # Home Button
     home_buttons = [
         [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")],
-        [InlineKeyboardButton("🔥 Emo Bot Devolopers 🔥", url="https://t.me/EmoBotDevolopers")],
+        [InlineKeyboardButton("🔥 Dan Devolopers 🔥", url="https://t.me/mhmdwldnnnn")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("▣——————Subscribe——————▣", url="https://youtube.com/@Rish_Bro/")],
+        [InlineKeyboardButton("▣——————Subscribe——————▣", url="https://t.me/Disney_storeDan")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🌺 About 🌺", callback_data="about")
         ],
-        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/{OWNER_USERNAME}}")],
-        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/EmoBotSupport")],
+        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/mhmdwldnnnn")],
+        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/musik_supportdan")],
     ]
 
     
     # Comming Soon
 
-COMMING = "Song Plugin is Comming Soon.. \n Join [Update Channel](t.me/EmoBotDevolopers) And Get Updates"
+COMMING = "Song Plugin is Comming Soon.. \n Join [Update Channel](t.me/Disney_storeDan) And Get Updates"
 
-COMMING2 = "Logo Plugin is Comming Soon.. \n Join [Update Channel](t.me/EmoBotDevolopers) And Get Updates"
+COMMING2 = "Logo Plugin is Comming Soon.. \n Join [Update Channel](t.me/Disney_storeDan) And Get Updates"
     # Help Message
     HELP = """
 1) Add me as **Admin** to a group.
@@ -58,7 +58,7 @@ COMMING2 = "Logo Plugin is Comming Soon.. \n Join [Update Channel](t.me/EmoBotDe
 2) Add me to the particular chat as **Admin** where you want to force your users to join. It can be any group or channel, public or private.
 
 3) Use /fsub chat_id/username to make me functional. Use /id if you need chat id.
-Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
+Example : `/fsub -1002127258037` or `/forcesubscribe -1002111666674`
 
 4) [Optional] Use /settings to change settings!
 
@@ -78,24 +78,24 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 ⟫ /logo - Comming Soon..
 
 📌**Note** - You can also use `/forcesubscribe` instead of `/fsub`
-📌**Note** - Get All Updates [Here](t.me/EmoBotDevolopers)
+📌**Note** - Get All Updates [Here](t.me/Disney_storeDan)
 
-🔥 Powerd By [Emo Network](t.me/EmoBotDevolopers)
+🔥 Powerd By [Dan](t.me/mhmdwldnnnn)
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-A Telegram Force Subscribing Bot by @ImRishmika
+A Telegram Force Subscribing Bot by @fsubdanbot
 
-🪄Powerd By : @EmoBotDevolopers
+🪄Powerd By : @mhmdwldnnnn
 
 🍁Framework : [Pyrogram](docs.pyrogram.org)
 
 🍁Language : [Python](www.python.org)
 
-🍁Developer : @ImRishmika
+🍁Developer : @mhmdwldnnnn
 
 🖥️ Host Sever : Unknow
 
