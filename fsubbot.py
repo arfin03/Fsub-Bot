@@ -9,9 +9,9 @@ logging.basicConfig(
 )
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
-API_ID = ""
-API_HASH = ""
-BOT_TOKEN = "5632628980:A7UQo4EWCuo"
+API_ID = "22920902"
+API_HASH = "9b6416fcccd2b728f1661877ca9a14cf"
+BOT_TOKEN = "7452952683:AAG5u0dhX-l4kqVPyyk-oQGv8KQiVdTV0Yk"
 
 
 app = Client(
